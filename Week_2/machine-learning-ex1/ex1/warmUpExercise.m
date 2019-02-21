@@ -1,5 +1,5 @@
 function A = warmUpExercise()
-%WARMUPEXERCISE Example function in octave
+%WARMUPEXERCISE Example function in Octave
 %   A = WARMUPEXERCISE() is an example function that returns the 5x5 identity matrix
 
 A = [];
